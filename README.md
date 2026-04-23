@@ -125,7 +125,13 @@ All data files are expected in the same directory as the notebook. The notebook 
 
 ## Team
 
-**BA830 Team 9** — Boston University, Spring 2026
+| Name | |
+|---|---|
+| Anna Wei | Boston University |
+| Erica (Kyuwon) Kim | Boston University |
+| Mika Ismayilli | Boston University |
+| Pin-Chen Kuo | Boston University |
+| Rita Feng | Boston University |
 
 ---
 
